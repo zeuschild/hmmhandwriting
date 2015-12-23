@@ -1,0 +1,1 @@
+This is handwriting recognition system based on HMM
